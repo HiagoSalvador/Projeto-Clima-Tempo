@@ -2,13 +2,14 @@
 <br>
 <br>
 <h2> Esse foi o projeto que eu fiz juntamente com o DevClub. </h2>
+<br>
+
 
 <h2> Tecnologias Utilizadas:</h2>
 <br>
+
 - HTML
-<br>
 - CSS
-<br>
 - JavaScript
 <br>
 <br>
