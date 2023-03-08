@@ -1,7 +1,7 @@
 <h1> Projeto Clima Tempo </h2>
 <br>
 <br>
-<h2> Esse foi o projeto que eu fiz juntamente com o DevClub, para informar o clima. </h2>
+<h2> Esse foi o projeto que eu fiz juntamente com o DevClub, para informar o clima no mundo inteiro. </h2>
 <br>
 
 
